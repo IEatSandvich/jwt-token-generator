@@ -1,0 +1,17 @@
+{
+  "name": "jwt-token-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base64url": "^3.0.1",
+    "crypto": "^1.0.1",
+    "jose": "^5.2.2",
+    "uuid": "^9.0.1"
+  }
+}
